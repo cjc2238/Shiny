@@ -1,0 +1,10 @@
+name: Shiny
+account: learninganalytics
+server: shinyapps.io
+appId: 132203
+bundleId: 588714
+url: https://learninganalytics.shinyapps.io/Shiny/
+when: 1476721129.89765
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: App-1/server.R|App-1/ui.R
